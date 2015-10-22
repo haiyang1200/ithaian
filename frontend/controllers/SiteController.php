@@ -50,9 +50,9 @@ class SiteController extends Controller
     }
 
     /**
-     * @inheritdoc
+     * @inheritdocv
      */
-    public function actions()
+    public function actions() 
     {
         return [
             'error' => [
